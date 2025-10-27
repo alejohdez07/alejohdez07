@@ -1,4 +1,3 @@
-
 <!--h1 without bottom border-->
 
 <div id="user-content-toc">
@@ -13,7 +12,6 @@
 <!--About Me-->
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> Sobre mí
-
 
 - 🎓 Soy estudiante del programa técnico de `Desarrollo de Software` en [CESDE](https://www.cesde.edu.co/) - Medellín
 - 🔧 **Actualmente trabajando en** `Automatización de Negocios` **&** `Contenido Educativo Tecnológico`
@@ -80,38 +78,24 @@
 
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 30px>  </picture> Estadísticas de GitHub
 
-<!--- stats & Trophy (start) -->
-
-<p align="left">
-  <!--- stats (start) -->
-<table align="left">
-<tr border="none">
-<td width="50%" align="center">
-  <img  align="left"  src="https://github-readme-stats.vercel.app/api?username=alejohdez07&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Alejandro streak" src="https://github-readme-streak-stats.herokuapp.com/?user=alejohdez07&theme=dark&hide_border=false" /> 
-</td>
-
-<td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=alejohdez07&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=7"/>
-
-  </td>
-</tr>
-</table>
-<!--- stats (end) -->
-
-<!--- trophy (start) -->
-
-<div align=left>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=alejohdez07&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
+<div align="center">
+  
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=alejohdez07&theme=dark&show_icons=true&count_private=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=alejohdez07&theme=dark&hide_border=false" />
+  
 </div>
 
-<!--- trophy (start) -->
-</p>        
-<!--- stats (end) -->
+<div align="center">
+  
+  <img width="49%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=alejohdez07&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=7"/>
+  
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=alejohdez07&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+</div>
 
 <br>
 
@@ -134,8 +118,8 @@ Como profesional en transición hacia el mundo tecnológico, creo firmemente en 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
------------
+---
 
 Credit: [alejohdez07](https://github.com/alejohdez07)
 
-Last Edited on: 29/06/2025
+Last Edited on: 26/10/2025
