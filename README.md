@@ -93,12 +93,6 @@
 
 <br>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alejohdez07&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-</div>
-
-<br>
-
 ## 🌟 Mi Filosofía
 
 > *"La única manera de hacer un gran trabajo es amar lo que haces."*
