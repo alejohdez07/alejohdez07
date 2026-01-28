@@ -81,7 +81,6 @@
 <div align="center">
   
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=alejohdez07&theme=dark&show_icons=true&count_private=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=alejohdez07&theme=dark&hide_border=false" />
   
 </div>
 
